@@ -51,7 +51,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
   - [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
   - [tmux-copycat](https://github.com/tmux-plugins/tmux-copycat) A plugin that enhances tmux search
   - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
-  - [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) Quickly open any path on your temrinal window in your $EDITOR of choice!
+  - [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) Quickly open any path on your terminal window in your $EDITOR of choice!
   - [tmux-logging](https://github.com/tmux-plugins/tmux-logging) Easy logging and screen capturing for Tmux.
   - [tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
   - [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer.
