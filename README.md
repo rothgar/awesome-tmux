@@ -10,6 +10,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [Configuration](#configuration)
 - [Tools and session management](#tools)
 - [Plugins](#plugins)
+- [Books](#books)
 - [Miscellaneous](#miscellaneous)
 
 ## Tutorials
@@ -73,9 +74,14 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-example-plugin](https://github.com/tmux-plugins/tmux-example-plugin) Example Tmux plugin that actually demonstrates how to build plugins for Tmux
 - [tmux-test](https://github.com/tmux-plugins/tmux-test) A small framework for isolated testing of tmux plugins.
 
+## Books
+
+- [Getting Started with tmux](https://www.packtpub.com/hardware-and-creative/getting-started-tmux)
+- [tmux 2: Productive Mouse-Free Development](https://pragprog.com/book/bhtmux2/tmux-2)
+- [The Tao of tmux](https://leanpub.com/the-tao-of-tmux)
+
 ## Miscellaneous
 
 - [Statically linked tmux](https://gist.github.com/rothgar/719ef460efc214c8d222) Install new version without root access
-- [tmux book](https://pragprog.com/book/bhtmux/tmux)
 - [vim-tmux](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Seamless navigation between tmux panes and vim splits
