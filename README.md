@@ -27,6 +27,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ## Configuration
 
+- [Advanced tmux config](https://github.com/gpakosz/.tmux) Powerline like theme, vim bindings, SSH aware, improved maximize pane, ...
 - [Example tmux config](https://github.com/tony/tmux-config) :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar
 - [Guide to customizing tmux.conf](http://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
 - [practical tmux](https://mutelight.org/practical-tmux)
