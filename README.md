@@ -46,6 +46,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmuxinator](https://github.com/tmuxinator/tmuxinator) Manage complex tmux sessions easily
 - [tmuxomatic](https://github.com/oxidane/tmuxomatic) Intelligent tmux session management
 - [tmuxp](https://github.com/tony/tmuxp) :computer: tmux session manager and python library
+- [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux intigration
 
 ## Plugins
 
