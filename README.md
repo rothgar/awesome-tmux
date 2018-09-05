@@ -19,6 +19,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [Tmux crash course](https://robots.thoughtbot.com/a-tmux-crash-course)
 - [Tmux primer](https://danielmiessler.com/study/tmux/)
 - [Using tmux for semi-interactive demos](http://blog.dbi-services.com/using-tmux-for-semi-interactive-demos/)
+- [Tmux and Vim together](https://blog.bugsnag.com/tmux-and-vim/)
 
 ## <a name="cheatsheets"></a>Cheat Sheets
 
