@@ -37,7 +37,6 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 ## <a name="tools"></a>Tools and session management
 
 - [libtmux](https://github.com/tony/libtmux) Python API for tmux
-- [mux](https://github.com/askhat/mux) :gem: Small ruby script which allows to cruise between tmux sessions easily
 - [powerline](https://github.com/powerline/powerline) Statusline plugin for vim, and provides statuslines and prompts for several other applications including tmux
 - [tat](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
 - [teamocil](https://github.com/remiprev/teamocil) a simple tool used to automatically create windows and panes in tmux with YAML files
