@@ -95,3 +95,4 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [sublime-tmux](https://github.com/huntie/sublime-tmux) Sublime Text plugin to interact with tmux sessions
 - [vim-tmux](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Seamless navigation between tmux panes and vim splits
+- [tmux-tail-f](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
