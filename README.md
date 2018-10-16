@@ -23,7 +23,6 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ## <a name="cheatsheets"></a>Cheat Sheets
 
-- https://tmuxcheatsheet.com/
 - [tmux-cheatsheet.markdown](https://gist.github.com/MohamedAlaa/2961058)
 
 ## Configuration
