@@ -49,6 +49,9 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmuxpair](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux intigration
 
+## Themes
+
+* [`tomorrow`](https://github.com/edouard-lopez/tmux-tomorrow/): light/dark/blue-ish theme based on official [specifications from Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme). 
 ## Plugins
 
 - [tmux2html](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
