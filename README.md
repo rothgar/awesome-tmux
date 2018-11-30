@@ -9,6 +9,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [Cheat sheets](#cheatsheets)
 - [Configuration](#configuration)
 - [Tools and session management](#tools)
+- [Themes](#themes)
 - [Plugins](#plugins)
 - [Books](#books)
 - [Miscellaneous](#miscellaneous)
@@ -51,7 +52,8 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ## Themes
 
-* [`tomorrow`](https://github.com/edouard-lopez/tmux-tomorrow/): light/dark/blue-ish theme based on official [specifications from Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme). 
+* [`tomorrow`](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) (_i.e._ _dark_/_blue_ and _light_).
+
 ## Plugins
 
 - [tmux2html](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
