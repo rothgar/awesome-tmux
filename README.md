@@ -9,6 +9,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [Cheat sheets](#cheatsheets)
 - [Configuration](#configuration)
 - [Tools and session management](#tools)
+- [Themes](#themes)
 - [Plugins](#plugins)
 - [Books](#books)
 - [Miscellaneous](#miscellaneous)
@@ -48,6 +49,10 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmuxp](https://github.com/tony/tmuxp) :computer: tmux session manager and python library
 - [tmuxpair](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux intigration
+
+## Themes
+
+* [tomorrow](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) (_i.e._ _dark_/_blue_ and _light_).
 
 ## Plugins
 
