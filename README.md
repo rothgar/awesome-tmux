@@ -53,6 +53,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 - [tomorrow](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) (_i.e._ _dark_/_blue_ and _light_).
 - [tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized) A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme
+- [tmux-base16-statusline](https://github.com/jatap/tmux-base16-statusline) Statusline based on [base16-shell](https://github.com/chriskempson/base16-shell)
 
 ## Plugins
 
