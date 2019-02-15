@@ -10,6 +10,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [Configuration](#configuration)
 - [Tools and session management](#tools)
 - [Themes](#themes)
+- [Status Bar](#status-bar)
 - [Plugins](#plugins)
 - [Books](#books)
 - [Miscellaneous](#miscellaneous)
@@ -56,26 +57,32 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-themepack](https://github.com/jimeh/tmux-themepack) Various themes for tmux
 - [tomorrow](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) (_i.e._ _dark_/_blue_ and _light_).
 
+## Status Bar
+
+- [tmux-battery](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
+- [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
+- [tmux-cpu-info](https://github.com/jdxcode/tmux-cpu-info) CPU usage guage to status bar
+- [tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
+- [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
+- [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
+- [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
+- [tmux-spotify-info](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar
+- [tmux-weather](https://github.bamtech.co/dpe/ssm-helpers) Add weather status via forcast.io
+
 ## Plugins
 
 - [tmux2html](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
 - [tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
-- [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
 - [tmux-fingers](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
 - [tmux-1password](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
 - [tmux-simple-git-status](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
 - [tmux-plugins](https://github.com/tmux-plugins) Official tmux plugins
-  - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
   - [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
   - [tmux-copycat](https://github.com/tmux-plugins/tmux-copycat) A plugin that enhances tmux search
-  - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
   - [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) Quickly open any path on your terminal window in your $EDITOR of choice!
   - [tmux-logging](https://github.com/tmux-plugins/tmux-logging) Easy logging and screen capturing for Tmux.
-  - [tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
-  - [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer.
   - [tmux-open](https://github.com/tmux-plugins/tmux-open) Tmux key bindings for quick opening of a highlighted file or url
   - [tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) standard pane key-bindings for tmux
-  - [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
   - [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) Persists tmux environment across system restarts.
   - [tmux-sessionist](https://github.com/tmux-plugins/tmux-sessionist) Lightweight tmux utils for manipulating sessions
   - [tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
