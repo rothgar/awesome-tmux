@@ -67,7 +67,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
 - [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
 - [tmux-spotify-info](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar
-- [tmux-weather](https://github.bamtech.co/dpe/ssm-helpers) Add weather status via forcast.io
+- [tmux-weather](https://github.com/jdxcode/tmux-weather) Add weather status via forcast.io
 
 ## Plugins
 
