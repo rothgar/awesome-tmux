@@ -73,6 +73,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 - [tmux2html](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
 - [tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
+- [extrakto](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
 - [tmux-fingers](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
 - [tmux-1password](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
 - [tmux-simple-git-status](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
