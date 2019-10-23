@@ -64,10 +64,12 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-cpu-info](https://github.com/jdxcode/tmux-cpu-info) CPU usage guage to status bar
 - [tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
 - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
+- [tmux-network-bandwidth](https://github.com/xamut/tmux-network-bandwidth) Show network bandwidth
 - [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
 - [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
 - [tmux-spotify-info](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar
 - [tmux-weather](https://github.com/jdxcode/tmux-weather) Add weather status via forcast.io
+- [tmux-weather](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 
 ## Plugins
 
