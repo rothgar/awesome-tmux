@@ -65,6 +65,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
 - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
 - [tmux-network-bandwidth](https://github.com/xamut/tmux-network-bandwidth) Show network bandwidth
+- [tmux-nordvpn](https://github.com/maxrodrigo/tmux-nordvpn) Monitor the current NordVPN connection status.
 - [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
 - [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
 - [tmux-spotify-info](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar
