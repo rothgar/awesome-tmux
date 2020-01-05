@@ -71,6 +71,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-spotify-info](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar
 - [tmux-weather](https://github.com/jdxcode/tmux-weather) Add weather status via forcast.io
 - [tmux-weather](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
+- [gitmux](https://github.com/arl/gitmux) Show Git status in tmux status bar
 
 ## Plugins
 
