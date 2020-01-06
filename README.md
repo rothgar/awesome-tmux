@@ -59,6 +59,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ## Status Bar
 
+- [gitmux](https://github.com/arl/gitmux) Show Git status in tmux status bar
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
 - [tmux-cpu-info](https://github.com/jdxcode/tmux-cpu-info) CPU usage guage to status bar
