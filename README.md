@@ -94,7 +94,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
   - [tmux-sessionist](https://github.com/tmux-plugins/tmux-sessionist) Lightweight tmux utils for manipulating sessions
   - [tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
   - [tmux-tpm](https://github.com/tmux-plugins/tpm) Tmux Plugin Manager
-  - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window!
+  - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan for a maintained alternative.)
   - [tmux-yank](https://github.com/tmux-plugins/tmux-yank) Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
   - [vim-tmux-focus-events](https://github.com/tmux-plugins/vim-tmux-focus-events) Make terminal vim and tmux work better together.
 
