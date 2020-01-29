@@ -82,6 +82,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-1password](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
 - [tmux-simple-git-status](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
 - [tmux-spotify](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
+- [tmux-urlscan](https://github.com/fszymanski/tmux-urlscan) Open any URL on your terminal window
 - [tmux-plugins](https://github.com/tmux-plugins) Official tmux plugins
   - [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
   - [tmux-copycat](https://github.com/tmux-plugins/tmux-copycat) A plugin that enhances tmux search
