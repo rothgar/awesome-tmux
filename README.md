@@ -80,6 +80,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [extrakto](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
 - [tmux-fingers](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
 - [tmux-1password](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
+- [tmux-jump](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
 - [tmux-simple-git-status](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
 - [tmux-spotify](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
 - [tmux-urlscan](https://github.com/fszymanski/tmux-urlscan) Open any URL on your terminal window
