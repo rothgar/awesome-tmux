@@ -29,7 +29,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ## Configuration
 
-- [Oh My Tmux!](https://github.com/gpakosz/.tmux) Powerline like theme, vim bindings, SSH aware, improved maximize pane, ...
+- [Oh My Tmux!](https://github.com/gpakosz/.tmux) Powerline-like theme, vim bindings, SSH aware, improved maximize pane, ...
 - [Example tmux config](https://github.com/tony/tmux-config) :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar
 - [Guide to customizing tmux.conf](http://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
 - [practical tmux](https://mutelight.org/practical-tmux)
@@ -40,8 +40,8 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [libtmux](https://github.com/tony/libtmux) Python API for tmux
 - [powerline](https://github.com/powerline/powerline) Statusline plugin for vim, and provides statuslines and prompts for several other applications including tmux
 - [tat](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
-- [teamocil](https://github.com/remiprev/teamocil) a simple tool used to automatically create windows and panes in tmux with YAML files
-- [tmux-cssh](https://github.com/zinic/tmux-cssh) TMUX with a "ClusterSSH"-like behaviour
+- [teamocil](https://github.com/remiprev/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
+- [tmux-cssh](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
 - [tmux-up](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
 - [tmuxifier](https://github.com/jimeh/tmuxifier) Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [tmuxinator](https://github.com/tmuxinator/tmuxinator) Manage complex tmux sessions easily
@@ -62,7 +62,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [gitmux](https://github.com/arl/gitmux) Show Git status in tmux status bar
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
-- [tmux-cpu-info](https://github.com/jdxcode/tmux-cpu-info) CPU usage guage to status bar
+- [tmux-cpu-info](https://github.com/jdxcode/tmux-cpu-info) CPU usage gauge to status bar
 - [tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
 - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
 - [tmux-network-bandwidth](https://github.com/xamut/tmux-network-bandwidth) Show network bandwidth
