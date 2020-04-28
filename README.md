@@ -56,6 +56,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized) A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme
 - [tmux-themepack](https://github.com/jimeh/tmux-themepack) Various themes for tmux
 - [tomorrow](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) (_i.e._ _dark_/_blue_ and _light_).
+- [dracula/tmux](https://github.com/dracula/tmux) The official [dracula theme](https://draculatheme.com/) for tmux 🧛🏻‍♂️ 
 
 ## Status Bar
 
