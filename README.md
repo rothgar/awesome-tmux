@@ -49,6 +49,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmuxp](https://github.com/tony/tmuxp) :computer: tmux session manager and python library
 - [tmuxpair](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux intigration
+- [tmux-colortag](https://github.com/Determinant/tmux-colortag) a plugin/theme that colors your the window tags.
 
 ## Themes
 
