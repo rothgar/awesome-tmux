@@ -49,7 +49,6 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmuxp](https://github.com/tony/tmuxp) :computer: tmux session manager and python library
 - [tmuxpair](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux intigration
-- [tmux-colortag](https://github.com/Determinant/tmux-colortag) a plugin/theme that colors the tmux window tags.
 
 ## Themes
 
@@ -63,6 +62,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 - [gitmux](https://github.com/arl/gitmux) Show Git status in tmux status bar
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
+- [tmux-colortag](https://github.com/Determinant/tmux-colortag) a plugin/theme that colors the tmux window tags.
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
 - [tmux-cpu-info](https://github.com/jdxcode/tmux-cpu-info) CPU usage gauge to status bar
 - [tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
