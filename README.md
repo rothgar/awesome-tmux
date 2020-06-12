@@ -81,6 +81,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
 - [extrakto](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
 - [tmux-fingers](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
+- [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
 - [tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 - [tmux-1password](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
 - [tmux-jump](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
@@ -99,7 +100,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
   - [tmux-sessionist](https://github.com/tmux-plugins/tmux-sessionist) Lightweight tmux utils for manipulating sessions
   - [tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
   - [tmux-tpm](https://github.com/tmux-plugins/tpm) Tmux Plugin Manager
-  - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan for a maintained alternative.)
+  - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see [tmux-urlscan](https://github.com/fszymanski/tmux-urlscan) or [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) for a maintained alternative.)
   - [tmux-yank](https://github.com/tmux-plugins/tmux-yank) Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
   - [vim-tmux-focus-events](https://github.com/tmux-plugins/vim-tmux-focus-events) Make terminal vim and tmux work better together.
 
