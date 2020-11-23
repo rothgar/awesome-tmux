@@ -5,18 +5,15 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ## Table of Contents
 
-- [Awesome Tmux](#awesome-tmux)
-  - [Table of Contents](#table-of-contents)
-  - [Tutorials](#tutorials)
-  - [<a name="cheatsheets"></a>Cheat Sheets](#cheat-sheets)
-  - [Configuration](#configuration)
-  - [<a name="tools"></a>Tools and session management](#tools-and-session-management)
-  - [Themes](#themes)
-  - [Status Bar](#status-bar)
-  - [Plugins](#plugins)
-    - [Development and testing](#development-and-testing)
-  - [Books](#books)
-  - [Miscellaneous](#miscellaneous)
+- [Tutorials](#tutorials)
+- [Cheat sheets](#cheatsheets)
+- [Configuration](#configuration)
+- [Tools and session management](#tools)
+- [Themes](#themes)
+- [Status Bar](#status-bar)
+- [Plugins](#plugins)
+- [Books](#books)
+- [Miscellaneous](#miscellaneous)
 
 ## Tutorials
 
