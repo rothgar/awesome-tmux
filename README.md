@@ -40,6 +40,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [dmux](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 - [libtmux](https://github.com/tony/libtmux) Python API for tmux
 - [powerline](https://github.com/powerline/powerline) Statusline plugin for vim, and provides statuslines and prompts for several other applications including tmux
+- [smug](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
 - [tat](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
 - [teamocil](https://github.com/remiprev/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
 - [tmux-cssh](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
