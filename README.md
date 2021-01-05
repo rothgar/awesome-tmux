@@ -85,6 +85,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
 - [extrakto](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
 - [tmux-bitwarden](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
+- [tmux-easy-motion](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
 - [tmux-fingers](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
 - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
 - [tmux-notify](https://github.com/ChanderG/tmux-notify) A plugin to notify you when processes complete.
