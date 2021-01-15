@@ -19,6 +19,5 @@ jobs:
         ruby-version: 2.6.x
     - name: Checks
       run: |
-        ruby .github/osia_convert.rb
         gem install awesome_bot
         awesome_bot README.md
