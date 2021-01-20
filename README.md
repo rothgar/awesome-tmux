@@ -18,10 +18,10 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 ## Tutorials
 
 - [Automatically start tmux on SSH](http://marklodato.github.io/2013/10/31/autostart-tmux-on-ssh.html)
-- [Tmux crash course](https://robots.thoughtbot.com/a-tmux-crash-course)
+- [Tmux crash course](https://thoughtbot.com/blog/a-tmux-crash-course)
 - [Tmux primer](https://danielmiessler.com/study/tmux/)
-- [Using tmux for semi-interactive demos](http://blog.dbi-services.com/using-tmux-for-semi-interactive-demos/)
-- [Tmux and Vim together](https://blog.bugsnag.com/tmux-and-vim/)
+- [Using tmux for semi-interactive demos](https://blog.dbi-services.com/using-tmux-for-semi-interactive-demos/)
+- [Tmux and Vim together](https://www.bugsnag.com/blog/tmux-and-vim/)
 
 ## <a name="cheatsheets"></a>Cheat Sheets
 
@@ -31,7 +31,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 - [Oh My Tmux!](https://github.com/gpakosz/.tmux) Powerline-like theme, vim bindings, SSH aware, improved maximize pane, ...
 - [Example tmux config](https://github.com/tony/tmux-config) :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar
-- [Guide to customizing tmux.conf](http://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
+- [Guide to customizing tmux.conf](https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
 - [practical tmux](https://mutelight.org/practical-tmux)
 - [tmux-extra](https://github.com/brandur/tmux-extra) Configuration and scripts for sane Tmux default behavior
 - [tmux yank to system clipboard](https://www.grailbox.com/2020/08/use-system-clipboard-for-vi-copy-mode-in-tmux-in-macos-and-linux/) A way to get the System Clipboard to work with tmux yank on a Mac via `pbcopy` and linux via `xclip`
@@ -39,17 +39,17 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 ## <a name="tools"></a>Tools and session management
 
 - [dmux](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
-- [libtmux](https://github.com/tony/libtmux) Python API for tmux
+- [libtmux](https://github.com/tmux-python/libtmux) Python API for tmux
 - [powerline](https://github.com/powerline/powerline) Statusline plugin for vim, and provides statuslines and prompts for several other applications including tmux
 - [smug](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
 - [tat](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
-- [teamocil](https://github.com/remiprev/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
+- [teamocil](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
 - [tmux-cssh](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
 - [tmux-up](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
 - [tmuxifier](https://github.com/jimeh/tmuxifier) Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [tmuxinator](https://github.com/tmuxinator/tmuxinator) Manage complex tmux sessions easily
 - [tmuxomatic](https://github.com/oxidane/tmuxomatic) Intelligent tmux session management
-- [tmuxp](https://github.com/tony/tmuxp) :computer: tmux session manager and python library
+- [tmuxp](https://github.com/tmux-python/tmuxp) :computer: tmux session manager and python library
 - [tmuxpair](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
 
@@ -109,7 +109,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
   - [tmux-sessionist](https://github.com/tmux-plugins/tmux-sessionist) Lightweight tmux utils for manipulating sessions
   - [tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
   - [tmux-tpm](https://github.com/tmux-plugins/tpm) Tmux Plugin Manager
-  - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see [tmux-urlscan](https://github.com/fszymanski/tmux-urlscan) or [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) for a maintained alternative.)
+  - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)
   - [tmux-yank](https://github.com/tmux-plugins/tmux-yank) Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
   - [vim-tmux-focus-events](https://github.com/tmux-plugins/vim-tmux-focus-events) Make terminal vim and tmux work better together.
 
@@ -120,8 +120,8 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ## Books
 
-- [Getting Started with tmux](https://www.packtpub.com/hardware-and-creative/getting-started-tmux)
-- [tmux 2: Productive Mouse-Free Development](https://pragprog.com/book/bhtmux2/tmux-2)
+- [Getting Started with tmux](https://www.packtpub.com/product/getting-started-with-tmux/9781783985166)
+- [tmux 2: Productive Mouse-Free Development](https://pragprog.com/book/bhtmux2/tmux-2/)
 - [The Tao of tmux](https://leanpub.com/the-tao-of-tmux)
 
 ## Miscellaneous
@@ -129,5 +129,4 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [Statically linked tmux](https://gist.github.com/rothgar/719ef460efc214c8d222) Install new version without root access
 - [sublime-tmux](https://github.com/huntie/sublime-tmux) Sublime Text plugin to interact with tmux sessions
 - [vim-tmux](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
-- [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Seamless navigation between tmux panes and vim splits
 - [tmux-tail-f](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
