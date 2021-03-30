@@ -78,10 +78,13 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
 - [tmux-piavpn](https://github.com/Brutuski/tmux-piavpn) Keep track of your [Private Internet Access](https://www.privateinternetaccess.com/) VPN status.
 - [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
-- [tmux-spotify-info](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar
+- [tmux-spotify-info](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar (OSX)
+- [tmux-spotify-info](https://github.com/Feqzz/tmux-spotify-info) Spotify track info on your status bar (Linux)
 - [tmux-weather](https://github.com/jdxcode/tmux-weather) Add weather status via forcast.io
 - [tmux-weather](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
+- [tmux-weather-info-yr](https://github.com/Feqzz/tmux-weather-info-yr) Displays the current temperature and weather based on your location via yr.no
 - [tmux-world-clock](https://github.com/alexanderjeurissen/tmux-world-clock) Show multiple timezones using Olson tz database.
+- [tmux-mpv-info](https://github.com/Feqzz/tmux-mpv-info) Displays the current song playing with MPV in your tmux status bar.
 
 ## Plugins
 
