@@ -86,7 +86,6 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-weather-info-yr](https://github.com/Feqzz/tmux-weather-info-yr) Displays the current temperature and weather based on your location via yr.no
 - [tmux-world-clock](https://github.com/alexanderjeurissen/tmux-world-clock) Show multiple timezones using Olson tz database.
 
-
 ## Plugins
 
 - [tmux2html](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
