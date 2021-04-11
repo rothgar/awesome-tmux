@@ -66,6 +66,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ## Status Bar
 
+- [aws-tmux](https://github.com/darko-mesaros/aws-tmux) Tmux plugin that gives you access to some (potentially) useful information about AWS.
 - [gitmux](https://github.com/arl/gitmux) Show Git status in tmux status bar
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
 - [tmux-colortag](https://github.com/Determinant/tmux-colortag) a plugin/theme that colors the tmux window tags.
