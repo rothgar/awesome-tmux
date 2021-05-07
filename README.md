@@ -46,6 +46,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tat](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
 - [teamocil](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
 - [tmux-cssh](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
+- [tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) Suspend local session for painlessly working with nested remote session.
 - [tmux-up](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
 - [tmuxifier](https://github.com/jimeh/tmuxifier) Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [tmuxinator](https://github.com/tmuxinator/tmuxinator) Manage complex tmux sessions easily
