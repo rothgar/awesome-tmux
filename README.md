@@ -121,7 +121,6 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
   - [tmux-tpm](https://github.com/tmux-plugins/tpm) Tmux Plugin Manager
   - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)
   - [tmux-yank](https://github.com/tmux-plugins/tmux-yank) Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
-  - [vim-tmux-focus-events](https://github.com/tmux-plugins/vim-tmux-focus-events) Make terminal vim and tmux work better together.
 
 ### Development and testing
 
