@@ -101,6 +101,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-copytk](https://github.com/CrispyConductor/tmux-copy-toolkit) - Multi utility rapid copy toolkit.
 - [tmux-easy-motion](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
 - [tmux-fingers](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
+- [tmux-fuzzback](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
 - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
 - [tmux-notify](https://github.com/ChanderG/tmux-notify) A plugin to notify you when processes complete.
 - [tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
