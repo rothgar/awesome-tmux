@@ -56,6 +56,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmuxp](https://github.com/tmux-python/tmuxp) :computer: tmux session manager and python library
 - [tmuxpair](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
+- [tmex](https://github.com/evnp/tmex) A minimalist tmux layout manager
 
 ## Themes
 
