@@ -47,6 +47,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [smug](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
 - [tat](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
 - [teamocil](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
+- [tmex](https://github.com/evnp/tmex) A minimalist tmux layout manager
 - [tmux-cssh](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
 - [tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) Suspend local session for painlessly working with nested remote session.
 - [tmux-up](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
@@ -56,7 +57,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmuxp](https://github.com/tmux-python/tmuxp) :computer: tmux session manager and python library
 - [tmuxpair](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
-- [tmex](https://github.com/evnp/tmex) A minimalist tmux layout manager
+
 
 ## Themes
 
