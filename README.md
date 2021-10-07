@@ -115,7 +115,6 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-jump](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
 - [tmux-simple-git-status](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
 - [tmux-spotify](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
-- [tmux-urlscan](https://github.com/fszymanski/tmux-urlscan) Open any URL on your terminal window
 - [tmux-tilish](https://github.com/jabirali/tmux-tilish) Turn tmux into a dynamic window manager with intuitive keybindings (inspired by i3wm/sway)
 - [tmux-wormhole](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
 - [tmux-plugins](https://github.com/tmux-plugins) Official tmux plugins
