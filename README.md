@@ -88,6 +88,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-nordvpn](https://github.com/maxrodrigo/tmux-nordvpn) Monitor the current NordVPN connection status.
 - [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
 - [tmux-piavpn](https://github.com/Brutuski/tmux-piavpn) Keep track of your [Private Internet Access](https://www.privateinternetaccess.com/) VPN status.
+- [tmux-pomodoro-plus](https://github.com/olimorris/tmux-pomodoro-plus) Incorporate the Pomodoro technique into your tmux workflow
 - [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
 - [tmux-spotify-info](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar (OSX)
 - [tmux-spotify-info](https://github.com/Feqzz/tmux-spotify-info) Spotify track info on your status bar (Linux)
