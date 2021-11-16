@@ -139,7 +139,6 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ## Books
 
-- [Getting Started with tmux](https://www.packtpub.com/product/getting-started-with-tmux/9781783985166)
 - [tmux 2: Productive Mouse-Free Development](https://pragprog.com/book/bhtmux2/tmux-2/)
 - [The Tao of tmux](https://leanpub.com/the-tao-of-tmux)
 
