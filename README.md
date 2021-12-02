@@ -71,6 +71,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [dracula/tmux](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
 - [nord tmux](https://github.com/arcticicestudio/nord-tmux) An arctic, north-bluish clean and elegant tmux color theme.
 - [tmux-nova](https://github.com/o0th/tmux-nova) Fully customizable tmux theme
+- [tmux-gruvbox](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
 
 ## Status Bar
 
