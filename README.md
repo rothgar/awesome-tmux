@@ -115,6 +115,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-fuzzback](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
 - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
 - [tmux-menus](https://github.com/jaclu/tmux-menus) - Popup menus to handle commands that are hard to remember, and some custom actions.
+- [tmux-modal](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.
 - [tmux-mouse-swipe](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
 - [tmux-notify](https://github.com/ChanderG/tmux-notify) A plugin to notify you when processes complete.
 - [tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
