@@ -99,6 +99,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-spotify-info](https://github.com/Feqzz/tmux-spotify-info) Spotify track info on your status bar (Linux)
 - [tmux-weather](https://github.com/jdxcode/tmux-weather) Add weather status via forcast.io
 - [tmux-weather](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
+- [tmux-window-name](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
 - [tmux-weather-info-yr](https://github.com/Feqzz/tmux-weather-info-yr) Displays the current temperature and weather based on your location via yr.no
 - [tmux-world-clock](https://github.com/alexanderjeurissen/tmux-world-clock) Show multiple timezones using Olson tz database.
 
