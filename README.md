@@ -94,6 +94,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
 - [tmux-packet-loss](https://github.com/jaclu/tmux-packet-loss) - Displays packet loss % if at or above the specified threshold level
 - [tmux-piavpn](https://github.com/Brutuski/tmux-piavpn) Keep track of your [Private Internet Access](https://www.privateinternetaccess.com/) VPN status.
+- [tmux-plugin-playerctl](https://github.com/richin13/tmux-plugin-playerctl) Display [MPRIS](https://www.freedesktop.org/wiki/Specifications/mpris-spec/) metadata in Tmux (Spotify, Clementine, VLC, etc) 
 - [tmux-pomodoro-plus](https://github.com/olimorris/tmux-pomodoro-plus) Incorporate the Pomodoro technique into your tmux workflow
 - [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
 - [tmux-split-statusbar](https://github.com/charlietag/tmux-split-statusbar) Plugin for splitting status bar into 2 parts - window + left/right status
