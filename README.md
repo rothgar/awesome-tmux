@@ -45,7 +45,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [dmux](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 - [libtmux](https://github.com/tmux-python/libtmux) Python API for tmux
 - [powerline](https://github.com/powerline/powerline) Statusline plugin for vim, and provides statuslines and prompts for several other applications including tmux
-- [tmux-powerline](https://github.com/erikw/tmux-powerline) A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash. 
+- [tmux-powerline](https://github.com/erikw/tmux-powerline) A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
 - [smug](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
 - [tat](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
 - [teamocil](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
@@ -91,12 +91,15 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-mode-indicator](https://github.com/MunifTanjim/tmux-mode-indicator) Displays prompt indicating currently active Tmux mode.
 - [tmux-mpv-info](https://github.com/Feqzz/tmux-mpv-info) Displays the current song playing with MPV in your tmux status bar.
 - [tmux-mullvad](https://github.com/jaclu/tmux-mullvad) - Keep track of [Mullvad VPN](https://mullvad.net/) status.
-- [tmux-network-bandwidth](https://github.com/xamut/tmux-network-bandwidth) Show network bandwidth
+- [tmux-ludanta](https://github.com/vascomfnunes/tmux-ludanta) - What's playing
+  on an MPD local server.
+- [tmux-network-bandwidth](https://github.com/xamut/tmux-network-bandwidth) Show
+  network bandwidth
 - [tmux-nordvpn](https://github.com/maxrodrigo/tmux-nordvpn) Monitor the current NordVPN connection status.
 - [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
 - [tmux-packet-loss](https://github.com/jaclu/tmux-packet-loss) - Displays packet loss % if at or above the specified threshold level
 - [tmux-piavpn](https://github.com/Brutuski/tmux-piavpn) Keep track of your [Private Internet Access](https://www.privateinternetaccess.com/) VPN status.
-- [tmux-plugin-playerctl](https://github.com/richin13/tmux-plugin-playerctl) Display [MPRIS](https://www.freedesktop.org/wiki/Specifications/mpris-spec/) metadata in Tmux (Spotify, Clementine, VLC, etc) 
+- [tmux-plugin-playerctl](https://github.com/richin13/tmux-plugin-playerctl) Display [MPRIS](https://www.freedesktop.org/wiki/Specifications/mpris-spec/) metadata in Tmux (Spotify, Clementine, VLC, etc)
 - [tmux-pomodoro-plus](https://github.com/olimorris/tmux-pomodoro-plus) Incorporate the Pomodoro technique into your tmux workflow
 - [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
 - [tmux-split-statusbar](https://github.com/charlietag/tmux-split-statusbar) Plugin for splitting status bar into 2 parts - window + left/right status
