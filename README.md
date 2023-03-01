@@ -41,7 +41,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ## <a name="tools"></a>Tools and session management
 
-- [automux](https://github.com/sriramkandukuri/automux) Wrappers to tmux commands, usefull for tmux based automation
+- [automux](https://github.com/sriramkandukuri/automux) Wrappers to tmux commands, useful for tmux based automation
 - [dmux](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 - [libtmux](https://github.com/tmux-python/libtmux) Python API for tmux
 - [powerline](https://github.com/powerline/powerline) Statusline plugin for vim, and provides statuslines and prompts for several other applications including tmux
