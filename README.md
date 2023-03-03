@@ -95,6 +95,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-mullvad](https://github.com/jaclu/tmux-mullvad) - Keep track of [Mullvad VPN](https://mullvad.net/) status.
 - [tmux-ludanta](https://github.com/vascomfnunes/tmux-ludanta) - What's playing
   on an MPD local server.
+- [tmux-nerd-font-window-name](https://github.com/joshmedeski/tmux-nerd-font-window-name) Nerd Font icons for your tmux windows
 - [tmux-network-bandwidth](https://github.com/xamut/tmux-network-bandwidth) Show
   network bandwidth
 - [tmux-nordvpn](https://github.com/maxrodrigo/tmux-nordvpn) Monitor the current NordVPN connection status.
