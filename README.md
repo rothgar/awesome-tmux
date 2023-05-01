@@ -110,6 +110,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-split-statusbar](https://github.com/charlietag/tmux-split-statusbar) Plugin for splitting status bar into 2 parts - window + left/right status
 - [tmux-spotify-info](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar (OSX)
 - [tmux-spotify-info](https://github.com/Feqzz/tmux-spotify-info) Spotify track info on your status bar (Linux)
+- [tmux-transient-status](https://github.com/TheSast/tmux-transient-status) Automatically make your tmux status bar vanish when unneded.
 - [tmux-weather](https://github.com/jdxcode/tmux-weather) Add weather status via forcast.io
 - [tmux-weather](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 - [tmux-window-name](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
