@@ -68,6 +68,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ## Themes
 
+- [catppuccin](https://github.com/catppuccin/tmux) Catppuccin `Latte`, `Frappe`, `Macchiato`, and `Mocha` themes for tmux. 
 - [tmux-base16-statusline](https://github.com/jatap/tmux-base16-statusline) Statusline based on [base16-shell](https://github.com/chriskempson/base16-shell)
 - [tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized) A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme
 - [tmux-power](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
@@ -78,7 +79,6 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-gruvbox](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
 - [tmux-nova](https://github.com/o0th/tmux-nova) Fully customizable tmux theme
 - [tokyo-night-tmux](https://github.com/janoamaral/tokyo-night-tmux) tokyo-night theme for tmux
-- [catppuccin](https://github.com/catppuccin/tmux) Catppuccin `Latte`, `Frappe`, `Macchiato`, and `Mocha` themes for tmux. 
 
 ## Status Bar
 
