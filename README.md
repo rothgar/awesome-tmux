@@ -22,7 +22,6 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [Automatically start tmux on SSH](http://marklodato.github.io/2013/10/31/autostart-tmux-on-ssh.html)
 - [Tmux crash course](https://thoughtbot.com/blog/a-tmux-crash-course)
 - [Tmux primer](https://danielmiessler.com/study/tmux/)
-- [Using tmux for semi-interactive demos](https://blog.dbi-services.com/using-tmux-for-semi-interactive-demos/)
 - [Tmux and Vim together](https://www.bugsnag.com/blog/tmux-and-vim)
 - [Tmux Tutorial for Beginners](https://protechnotes.com/comprehensive-tmux-tutorial-for-beginners-with-a-cheat-sheet/)
 
