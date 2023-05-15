@@ -78,6 +78,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-gruvbox](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
 - [tmux-nova](https://github.com/o0th/tmux-nova) Fully customizable tmux theme
 - [tokyo-night-tmux](https://github.com/janoamaral/tokyo-night-tmux) tokyo-night theme for tmux
+- [tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-night) - A vim inapired tokyT nigh theme
 
 ## Status Bar
 
