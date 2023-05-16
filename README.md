@@ -22,7 +22,6 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [Automatically start tmux on SSH](http://marklodato.github.io/2013/10/31/autostart-tmux-on-ssh.html)
 - [Tmux crash course](https://thoughtbot.com/blog/a-tmux-crash-course)
 - [Tmux primer](https://danielmiessler.com/study/tmux/)
-- [Using tmux for semi-interactive demos](https://blog.dbi-services.com/using-tmux-for-semi-interactive-demos/)
 - [Tmux and Vim together](https://www.bugsnag.com/blog/tmux-and-vim)
 - [Tmux Tutorial for Beginners](https://protechnotes.com/comprehensive-tmux-tutorial-for-beginners-with-a-cheat-sheet/)
 
@@ -54,6 +53,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmex](https://github.com/evnp/tmex) A minimalist tmux layout manager
 - [tmux-cssh](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
 - [tmux-conf](https://github.com/jaclu/tmux-conf) Meant for users running tmux on multiple hosts, not always running the same version. Generates tmux config files using version checks
+- [tmux-project](https://github.com/sei40kr/tmux-project) Search projects and open them in a new session
 - [tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) Suspend local session for painlessly working with nested remote session.
 - [tmux-up](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
 - [tmuxake](https://github.com/nkh/tmuxake) A side-pane manager for tmux
@@ -68,7 +68,8 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ## Themes
 
-- [catppuccin](https://github.com/catppuccin/tmux) Catppuccin `Latte`, `Frappe`, `Macchiato`, and `Mocha` themes for tmux. 
+- [catppuccin](https://github.com/catppuccin/tmux) Catppuccin `Latte`, `Frappe`, `Macchiato`, and `Mocha` themes for tmux.
+- [tmux-dark-notify](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
 - [tmux-base16-statusline](https://github.com/jatap/tmux-base16-statusline) Statusline based on [base16-shell](https://github.com/chriskempson/base16-shell)
 - [tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized) A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme
 - [tmux-power](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
@@ -79,6 +80,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-gruvbox](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
 - [tmux-nova](https://github.com/o0th/tmux-nova) Fully customizable tmux theme
 - [tokyo-night-tmux](https://github.com/janoamaral/tokyo-night-tmux) tokyo-night theme for tmux
+- [tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-night) A vim inspired tokyo night theme
 
 ## Status Bar
 
@@ -111,6 +113,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-split-statusbar](https://github.com/charlietag/tmux-split-statusbar) Plugin for splitting status bar into 2 parts - window + left/right status
 - [tmux-spotify-info](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar (OSX)
 - [tmux-spotify-info](https://github.com/Feqzz/tmux-spotify-info) Spotify track info on your status bar (Linux)
+- [tmux-transient-status](https://github.com/TheSast/tmux-transient-status) Automatically make your tmux status bar vanish when unneded.
 - [tmux-weather](https://github.com/jdxcode/tmux-weather) Add weather status via forcast.io
 - [tmux-weather](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 - [tmux-window-name](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
