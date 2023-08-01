@@ -80,6 +80,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-nova](https://github.com/o0th/tmux-nova) Fully customizable tmux theme
 - [tokyo-night-tmux](https://github.com/janoamaral/tokyo-night-tmux) tokyo-night theme for tmux
 - [tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-night) A vim inspired tokyo night theme
+- [tmux-snazzy](https://github.com/ivnvxd/tmux-snazzy) Elegant tmux theme with bright colors
 
 ## Status Bar
 
