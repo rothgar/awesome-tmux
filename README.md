@@ -52,6 +52,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmex](https://github.com/evnp/tmex) A minimalist tmux layout manager
 - [tmux-cssh](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
 - [tmux-conf](https://github.com/jaclu/tmux-conf) Meant for users running tmux on multiple hosts, not always running the same version. Generates tmux config files using version checks
+- [tmux-nav-master](https://github.com/TheSast/tmux-nav-master) Easy cross-navigation between tmux and other terminal applications.
 - [tmux-project](https://github.com/sei40kr/tmux-project) Search projects and open them in a new session
 - [tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) Suspend local session for painlessly working with nested remote session.
 - [tmux-up](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
@@ -63,7 +64,6 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmuxpair](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 - [twm](https://github.com/vinnymeller/twm) A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
-
 
 ## Themes
 
