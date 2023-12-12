@@ -133,6 +133,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-cht-sh](https://github.com/kenos1/tmux-cht-sh) Access cheatsheets easily in a popup
 - [tmux-copytk](https://github.com/CrispyConductor/tmux-copy-toolkit) - Multi utility rapid copy toolkit.
 - [tmux-easy-motion](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
+- [tmux-filter](https://github.com/MaximilianGaedig/tmux-filter) Filter the current buffer by some text/pattern, very useful for viewing logs.
 - [tmux-fingers](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
 - [tmux-fuzzback](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
 - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
