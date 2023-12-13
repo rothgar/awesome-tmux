@@ -46,6 +46,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [powerline](https://github.com/powerline/powerline) Statusline plugin for vim, and provides statuslines and prompts for several other applications including tmux
 - [tmux-powerline](https://github.com/erikw/tmux-powerline) A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
 - [smug](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
+- [sessionx](https://github.com/omerxx/tmux-sessionx) A Tmux session manager, with preview, fuzzy finding, and MORE
 - [t](https://github.com/joshmedeski/t-smart-tmux-session-manager) The smart tmux session manager
 - [tat](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
 - [teamocil](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
