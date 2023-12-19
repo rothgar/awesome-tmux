@@ -156,6 +156,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-spotify-playlists](https://github.com/danjeltahko/spotify-tmux) Another Spotify plugin, but for saving and playing your favorite playlists
 - [tmux-super-fingers](https://github.com/artemave/tmux_super_fingers) like fingers, but also opens files in vim.
 - [tmux-tilish](https://github.com/jabirali/tmux-tilish) Turn tmux into a dynamic window manager with intuitive keybindings (inspired by i3wm/sway)
+- [tmux-tilit](https://github.com/2KAbhishek/tmux-tilit) A more streamlined and enhanced version of tmux-tilish focusing on simplicity.
 - [tmux-timetrap](https://github.com/croxarens/tmux-timetrap) Keep your time tracked directly with TMUX (The plugin is just a wrapper for [timetrap](https://github.com/samg/timetrap))
 - [tmux-wormhole](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
 - [tmux-pianobar](https://github.com/GoHarder/tmux-pianobar) A menu and status bar widget for Pianobar
