@@ -49,6 +49,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [sessionx](https://github.com/omerxx/tmux-sessionx) A Tmux session manager, with preview, fuzzy finding, and MORE
 - [t](https://github.com/joshmedeski/t-smart-tmux-session-manager) The smart tmux session manager
 - [tat](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
+- [tea](https://github.com/2KAbhishek/tmux-tea) Session manager with previews, integration with tmuxinator, fzf and more, inspired by t
 - [teamocil](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
 - [tmex](https://github.com/evnp/tmex) A minimalist tmux layout manager
 - [tmux-cssh](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
