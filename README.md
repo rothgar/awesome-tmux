@@ -190,6 +190,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ### Development and testing
 
+- [gotmux](https://github.com/GianlucaP106/gotmux) A golang library to interact with tmux.
 - [tmux-example-plugin](https://github.com/tmux-plugins/tmux-example-plugin) Example Tmux plugin that actually demonstrates how to build plugins for Tmux
 - [tmux-test](https://github.com/tmux-plugins/tmux-test) A small framework for isolated testing of tmux plugins.
 
