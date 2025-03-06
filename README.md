@@ -108,6 +108,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
 - [tmux-df](https://github.com/tassaron/tmux-df) - Show available disk space (output of df command)
 - [tmux-kripto](https://github.com/vascomfnunes/tmux-kripto) Add a cryptocurrency stock price to the statusbar.
+- [tmux-kubectx](https://github.com/tony-sol/tmux-kubectx) Show kubernetes context in statusbar
 - [tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
 - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
 - [tmux-mode-indicator](https://github.com/MunifTanjim/tmux-mode-indicator) Displays prompt indicating currently active Tmux mode.
