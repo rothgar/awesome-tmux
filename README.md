@@ -106,6 +106,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-colortag](https://github.com/Determinant/tmux-colortag) a plugin/theme that colors the tmux window tags.
 - [tmux-cpu-info](https://github.com/jdxcode/tmux-cpu-info) CPU usage gauge to status bar
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
+- [tmux-current-pane-hostname](https://github.com/tony-sol/tmux-current-pane-hostname) Show current user and hostname in ssh sessions
 - [tmux-df](https://github.com/tassaron/tmux-df) - Show available disk space (output of df command)
 - [tmux-kripto](https://github.com/vascomfnunes/tmux-kripto) Add a cryptocurrency stock price to the statusbar.
 - [tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
