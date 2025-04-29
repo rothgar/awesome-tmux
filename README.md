@@ -65,6 +65,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) Suspend local session for painlessly working with nested remote session.
 - [tmux-tea](https://github.com/2KAbhishek/tmux-tea) Session manager with previews, integrations with tmuxinator, fzf, neovim and more.
 - [tmux-up](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
+- [tmuxai](https://github.com/alvinunreal/tmuxai) AI-Powered, non-intrusive terminal assistant based on tmux
 - [tmuxake](https://github.com/nkh/tmuxake) A side-pane manager for tmux
 - [tmuxifier](https://github.com/jimeh/tmuxifier) Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [tmuxinator](https://github.com/tmuxinator/tmuxinator) Manage complex tmux sessions easily
