@@ -142,7 +142,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-workspace-usage](https://github.com/sjdonado/tmux-workspace-usage) Displays the memory and CPU usage of your workspace processes.
 
 ## Plugins
-
+- [back-in-5](https://github.com/hamolicious/back-in-5) display a "Back soon" message for remote collaboration
 - [tmux2html](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
 - [tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
 - [extrakto](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
