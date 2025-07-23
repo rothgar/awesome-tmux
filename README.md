@@ -186,6 +186,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-timetrap](https://github.com/croxarens/tmux-timetrap) Keep your time tracked directly with TMUX (The plugin is just a wrapper for [timetrap](https://github.com/samg/timetrap))
 - [tmux-wormhole](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
 - [tmux-pianobar](https://github.com/GoHarder/tmux-pianobar) A menu and status bar widget for Pianobar
+- [tmux-pane-focus](https://github.com/graemedavidson/tmux-pane-focus) Auto-Resizing splits to improve readability.
 - [tmux-plugins](https://github.com/tmux-plugins) Official tmux plugins
   - [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
   - [tmux-copycat](https://github.com/tmux-plugins/tmux-copycat) A plugin that enhances tmux search
