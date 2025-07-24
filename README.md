@@ -1,6 +1,4 @@
-Awesome [Tmux](https://tmux.github.io/)
-====
-
+![](./img/banner.png)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 List of helpful tmux links for various tutorials, plugins, and configuration settings.
