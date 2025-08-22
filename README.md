@@ -218,5 +218,6 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [sixel-tmux](https://github.com/csdvrx/sixel-tmux) a fork of tmux, with just one goal: having the most reliable support of graphics
 - [Statically linked tmux](https://gist.github.com/rothgar/719ef460efc214c8d222) Install new version without root access
 - [sublime-tmux](https://github.com/huntie/sublime-tmux) Sublime Text plugin to interact with tmux sessions
-- [vim-tmux](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
+- [tmuxai](https://github.com/alvinunreal/tmuxai) AI-Powered, Non-Intrusive Terminal Assistant
 - [tmux-tail-f](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
+- [vim-tmux](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
