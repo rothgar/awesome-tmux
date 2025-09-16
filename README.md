@@ -104,6 +104,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux2k](https://github.com/2KAbhishek/tmux2k) Highly customizable tmux status bar framework, providing you with a sleek and informative status bar.
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
 - [tmux-clima](https://github.com/vascomfnunes/tmux-clima) Displays the current temperature and weather condition using the OpenWeather API.
+- [tmux-code-time](https://github.com/theo64oliver/tmux-code-time) - Tracks time spent in sessions. Displays session duration in your status bar.
 - [tmux-colortag](https://github.com/Determinant/tmux-colortag) a plugin/theme that colors the tmux window tags.
 - [tmux-cpu-info](https://github.com/jdxcode/tmux-cpu-info) CPU usage gauge to status bar
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
