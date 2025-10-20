@@ -143,6 +143,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-workspace-usage](https://github.com/sjdonado/tmux-workspace-usage) Displays the memory and CPU usage of your workspace processes.
 
 ## Plugins
+
 - [back-in-5](https://github.com/hamolicious/back-in-5) display a "Back soon" message for remote collaboration
 - [tmux2html](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
 - [tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
@@ -203,6 +204,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
   - [tmux-tpm](https://github.com/tmux-plugins/tpm) Tmux Plugin Manager
   - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)
   - [tmux-yank](https://github.com/tmux-plugins/tmux-yank) Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
+- [tmux-port](https://github.com/fiqryq/port) A tiny tmux plugin to view listening ports and kill processes — in a centered popup or split panes.
 
 ### Development and testing
 
