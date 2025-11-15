@@ -206,6 +206,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
   - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)
   - [tmux-yank](https://github.com/tmux-plugins/tmux-yank) Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
 - [tmux-port](https://github.com/fiqryq/port) A tiny tmux plugin to view listening ports and kill processes — in a centered popup or split panes.
+- [tmux-git-worktree](https://github.com/nigelgreenway/tmux-git-worktree) An opinionated plugin to either delete, select or create git worktrees and branches, and then open in a new window within the current tmux session 
 
 ### Development and testing
 
