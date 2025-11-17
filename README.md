@@ -156,6 +156,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-browser](https://github.com/ofirgall/tmux-browser) Web browser sessions attached to tmux sessions.
 - [tmux-cht-sh](https://github.com/kenos1/tmux-cht-sh) Access cheatsheets easily in a popup
 - [tmux-click-copy](https://github.com/aless3/tmux-click-copy) word/line copy on double/triple click without fixed timeout and without remaining stuck in copy mode
+- [tmux-compile](https://github.com/alexekdahl/tmux-compile) Run compile commands directly inside tmux with automatic pane handling.
 - [tmux-command-palette](https://github.com/lost-melody/tmux-command-palette) Search for keybindings and custom commands with fzf.
 - [tmux-copytk](https://github.com/CrispyConductor/tmux-copy-toolkit) - Multi utility rapid copy toolkit.
 - [tmux-devcontainers](https://github.com/phil/tmux-devcontainers) - Manage and interact with (Devcontainers)[https://containers.dev]
