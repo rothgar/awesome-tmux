@@ -74,6 +74,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [twm](https://github.com/vinnymeller/twm) A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
 - [xpanes](https://github.com/greymd/tmux-xpanes) Awesome tmux-based terminal divider
+- [tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit) A tmux framework to create and distribute plugins and themes - Already have 36+ plugins, and 2 themes.
 
 ## Themes
 
@@ -90,7 +91,6 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-power](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
 - [tmux-snazzy](https://github.com/ivnvxd/tmux-snazzy) Elegant tmux theme with bright colors
 - [tmux-themepack](https://github.com/jimeh/tmux-themepack) Various themes for tmux
-- [tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-night) A vim inspired tokyo night theme
 - [tokyo-night-tmux](https://github.com/janoamaral/tokyo-night-tmux) tokyo-night theme for tmux
 - [tomorrow](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) (_i.e._ _dark_/_blue_ and _light_).
 - [tmux-kanagawa](https://github.com/Nybkox/tmux-kanagawa): Dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
