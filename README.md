@@ -171,7 +171,8 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-gh](https://github.com/tardunge/tmux-gh) - Tmux plugin to fetch the github helper profile. Displays, the currently actively authenticated git username.
 - [tmux-git-worktree](https://github.com/nigelgreenway/tmux-git-worktree) An opinionated plugin to either delete, select or create git worktrees and branches, and then open in a new window within the current tmux session 
 - [tmux-grimoire](https://github.com/navahas/tmux-grimoire) - Customizable popup shells (aka shpells) driven by custom scripts.
-- [tmux-keylocker](https://github.com/TheSast/tmux-keylocker) Lock away your tmux keybinds temporarely.
+- [tmux-keylocker](https://github.com/TheSast/tmux-keylocker) Lock away your tmux keybinds temporarily.
+- [tmux-llm](https://github.com/hynek-urban/tmux-llm) Get quick responses to your terminal contents from LLM assistants.
 - [tmux-menus](https://github.com/jaclu/tmux-menus) - Popup menus to help with managing your environment.
 - [tmux-modal](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.
 - [tmux-mouse-swipe](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
