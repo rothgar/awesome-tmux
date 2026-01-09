@@ -77,6 +77,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ## Themes
 
+- [amp](https://github.com/imdanielpiva/tmux-amp-theme) tmux theme based on the Amp Code website colors.
 - [catppuccin](https://github.com/catppuccin/tmux) Catppuccin `Latte`, `Frappe`, `Macchiato`, and `Mocha` themes for tmux.
 - [dracula/tmux](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
 - [minimal-tmux-status](https://github.com/niksingh710/minimal-tmux-status/): Minimal theme with only required information in status bar and prefix indicator. (changes only status bar)
