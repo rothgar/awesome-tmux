@@ -151,6 +151,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [extrakto](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
 - [kmux-status](https://github.com/tardunge/kmux-status) - Tmux plugin to render kubernetes context and other indicators on the status-line.
 - [muxile](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
+- [nunchux](https://github.com/datamadsen/nunchux) A fuzzy launcher for apps, files, and build tasks with live status, keyboard shortcuts, and task runner integration.
 - [tmux-autoreload](https://github.com/b0o/tmux-autoreload) - Watches your tmux configuration file and automatically reloads it on change.
 - [tmux-bitwarden](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
 - [tmux-browser](https://github.com/ofirgall/tmux-browser) Web browser sessions attached to tmux sessions.
