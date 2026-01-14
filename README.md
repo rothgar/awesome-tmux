@@ -38,7 +38,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux yank to system clipboard](https://www.grailbox.com/2020/08/use-system-clipboard-for-vi-copy-mode-in-tmux-in-macos-and-linux/) A way to get the System Clipboard to work with tmux yank on a Mac via `pbcopy` and linux via `xclip`
 
 ## <a name="tools"></a>Tools and session management
-
+- [agent-of-empires](https://github.com/njbrake/agent-of-empires) - Terminal session manager for AI coding agents with TUI dashboard, git worktree management, and Docker sandboxing.
 - [automux](https://github.com/sriramkandukuri/automux) Wrappers to tmux commands, useful for tmux based automation
 - [disconnected](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
 - [dmux](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
