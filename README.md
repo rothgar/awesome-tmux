@@ -60,6 +60,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-cookie-cutter](https://github.com/AranBorkum/tmux-cookie-cutter) A YAML based session builder, configuring windows, panes and environments automatically
 - [tmux-cssh](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
 - [tmux-conf](https://github.com/jaclu/tmux-conf) Meant for users running tmux on multiple hosts, not always running the same version. Generates tmux config files using version checks
+- [tmux-lazy-restore](https://github.com/bcampolo/tmux-lazy-restore) A session manager that allows sessions to be lazily restored in order to save memory and CPU cycles.
 - [tmux-nav-master](https://github.com/TheSast/tmux-nav-master) Easy cross-navigation between tmux and other terminal applications.
 - [tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit) A tmux framework to create and distribute plugins and themes - Already have 36+ plugins, and 2 themes.
 - [tmux-project](https://github.com/sei40kr/tmux-project) Search projects and open them in a new session
