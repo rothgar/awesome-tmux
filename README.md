@@ -199,6 +199,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-timetrap](https://github.com/croxarens/tmux-timetrap) Keep your time tracked directly with TMUX (The plugin is just a wrapper for [timetrap](https://github.com/samg/timetrap))
 - [tmux-toggle-scratch](https://github.com/momo-lab/tmux-toggle-scratch) Toggle scratch popup sessions for quick note-taking and temporary work.
 - [tmux-wormhole](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
+- [tmux-palette](https://github.com/leohenon/tmux-palette) A fzf command palette for tmux with fuzzy search and command history tracking.
 - [tmux-pianobar](https://github.com/GoHarder/tmux-pianobar) A menu and status bar widget for Pianobar
 - [tmux-pane-focus](https://github.com/graemedavidson/tmux-pane-focus) Auto-Resizing splits to improve readability.
 - [tmux-plugins](https://github.com/tmux-plugins) Official tmux plugins
