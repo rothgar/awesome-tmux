@@ -80,6 +80,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tome](https://github.com/laktak/tome) 🔁 Playbooks for tmux & vim, replacing your shell history
 - [twm](https://github.com/vinnymeller/twm) A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
+- [wolfpack](https://github.com/almogdepaz/wolfpack) Mobile & desktop PWA command center for AI coding agents (Claude, Codex, Gemini) via tmux — control sessions across machines from your phone, secured by Tailscale
 - [xpanes](https://github.com/greymd/tmux-xpanes) Awesome tmux-based terminal divider
 
 ## Themes
