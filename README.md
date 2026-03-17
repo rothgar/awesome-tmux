@@ -44,6 +44,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [disconnected](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
 - [dmux](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 - [harpoon](https://github.com/Chaitanyabsprip/tmux-harpoon) A tool to bookmark sessions and jump between them in a flash. Like ThePrimeagen/harpoon, but for tmux.
+- [kkueinput](https://github.com/douchekr/kkueinput) A GTK3 floating IME input helper for CJK text composition in tmux sessions. Sends composed text via tmux send-keys, with SSH remote session support.
 - [laio](https://laio.sh) A simple, flexbox-inspired, layout & session manager for tmux written in Rust.
 - [libtmux](https://github.com/tmux-python/libtmux) Python API for tmux
 - [moxide](https://github.com/dlurak/moxide) A tmux session manager with a modular config
