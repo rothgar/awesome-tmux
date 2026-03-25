@@ -39,6 +39,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ## <a name="tools"></a>Tools and session management
 
+- [lazy-tmux](https://lazy-tmux.xyz) A CLI that snapshots tmux sessions (including running processes and scrollback) and restores them lazily and seamlessly when selected.
 - [automux](https://github.com/sriramkandukuri/automux) Wrappers to tmux commands, useful for tmux based automation
 - [ccb](https://github.com/bfly123/claude_code_bridge) A CLI tool to orchestrate multiple LLMs (Claude, Gemini, etc.) in tmux panes with cross-agent interaction
 - [disconnected](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
