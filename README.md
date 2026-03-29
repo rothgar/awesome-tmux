@@ -108,6 +108,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 ## Status Bar
 
 - [aws-tmux](https://github.com/darko-mesaros/aws-tmux) Tmux plugin that gives you access to some (potentially) useful information about AWS.
+- [claude-dash](https://github.com/krabat-l/claude-dash) Real-time statusline for Claude Code showing context, cost, quota, cache, tools, and git status.
 - [gitmux](https://github.com/arl/gitmux) Show Git status in tmux status bar
 - [muxbar](https://github.com/dlurak/muxbar) configure the status bar in Rust.
 - [tmux2k](https://github.com/2KAbhishek/tmux2k) Highly customizable tmux status bar framework, providing you with a sleek and informative status bar.
