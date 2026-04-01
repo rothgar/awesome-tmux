@@ -69,6 +69,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-project](https://github.com/sei40kr/tmux-project) Search projects and open them in a new session
 - [tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) Suspend local session for painlessly working with nested remote session.
 - [tmux-task-monitor](https://github.com/YlanAllouche/tmux-task-monitor) a htop-like resource monitor popup that only shows the processes linked to the current session
+- [tmux-tab](https://github.com/leohenon/tmux-tab) Alt-tab for tmux sessions with MRU ordering and live previews.
 - [tmux-tea](https://github.com/2KAbhishek/tmux-tea) Session manager with previews, integrations with tmuxinator, fzf, neovim and more.
 - [tmux-tpad](https://github.com/Subbeh/tmux-tpad) A popup window session manager.
 - [tmux-up](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
