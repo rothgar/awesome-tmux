@@ -81,6 +81,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [twm](https://github.com/vinnymeller/twm) A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
 - [xpanes](https://github.com/greymd/tmux-xpanes) Awesome tmux-based terminal divider
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for tmux-integrated multi-agent orchestration, automated terminal management, and development workflow coordination. MIT licensed.
 
 ## Themes
 
