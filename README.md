@@ -82,6 +82,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
 - [xpanes](https://github.com/greymd/tmux-xpanes) Awesome tmux-based terminal divider
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=rothgar_awesome-tmux) - Follow developers on GitHub and get a feed of what they star and build.
 ## Themes
 
 - [amp](https://github.com/imdanielpiva/tmux-amp-theme) tmux theme based on the Amp Code website colors.
