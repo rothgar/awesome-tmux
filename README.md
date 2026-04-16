@@ -45,6 +45,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [dmux](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 - [harpoon](https://github.com/Chaitanyabsprip/tmux-harpoon) A tool to bookmark sessions and jump between them in a flash. Like ThePrimeagen/harpoon, but for tmux.
 - [laio](https://laio.sh) A simple, flexbox-inspired, layout & session manager for tmux written in Rust.
+- [lazyclaude](https://github.com/any-context/lazyclaude) A lazygit-inspired TUI for managing multiple Claude Code sessions with live previews, activity tracking, and permission prompts in a tmux popup
 - [libtmux](https://github.com/tmux-python/libtmux) Python API for tmux
 - [moxide](https://github.com/dlurak/moxide) A tmux session manager with a modular config
 - [mynav](https://github.com/GianlucaP106/mynav) Workspace and session management TUI built on tmux
