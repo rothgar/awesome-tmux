@@ -64,6 +64,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-grip](https://github.com/leohenon/tmux-grip) Pin tmux sessions to fixed numbered slots with direct key jumps and a popup manager
 - [tmux-lazy-restore](https://github.com/bcampolo/tmux-lazy-restore) A session manager that allows sessions to be lazily restored in order to save memory and CPU cycles.
 - [tmux-nav-master](https://github.com/TheSast/tmux-nav-master) Easy cross-navigation between tmux and other terminal applications.
+- [tmux-player-ctl](https://github.com/kesor/tmux-player-ctl) Minimal tmux popup controller for MPRIS media players via playerctl
 - [tmux-poltergeist](https://github.com/dianoga-theory/tmux-poltergeist) Clipboard-like popup for injecting up to 10 text buffers
 - [tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit) A tmux framework to create and distribute plugins and themes - Already have 36+ plugins, and 2 themes.
 - [tmux-project](https://github.com/sei40kr/tmux-project) Search projects and open them in a new session
