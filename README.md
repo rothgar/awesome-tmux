@@ -48,6 +48,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [lazyclaude](https://github.com/any-context/lazyclaude) A lazygit-inspired TUI for managing multiple Claude Code sessions with live previews, activity tracking, and permission prompts in a tmux popup
 - [libtmux](https://github.com/tmux-python/libtmux) Python API for tmux
 - [moxide](https://github.com/dlurak/moxide) A tmux session manager with a modular config
+- [muxbar](https://github.com/1989v/muxbar) Menu bar app for tmux session management on macOS — list / attach / kill / live preview, plus a closed-lid mode for in-bag work. MIT.
 - [mynav](https://github.com/GianlucaP106/mynav) Workspace and session management TUI built on tmux
 - [powerline](https://github.com/powerline/powerline) Statusline plugin for vim, and provides statuslines and prompts for several other applications including tmux
 - [tmux-powerline](https://github.com/erikw/tmux-powerline) A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
