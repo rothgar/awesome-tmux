@@ -20,6 +20,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [Automatically start tmux on SSH](http://marklodato.github.io/2013/10/31/autostart-tmux-on-ssh.html)
 - [Tmux crash course](https://thoughtbot.com/blog/a-tmux-crash-course)
 - [Tmux and Vim together](https://smartbear.com/blog/tmux-and-vim/)
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## <a name="cheatsheets"></a>Cheat Sheets
 
