@@ -76,6 +76,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-tab](https://github.com/leohenon/tmux-tab) Alt-tab for tmux sessions with MRU ordering and live previews.
 - [tmux-tea](https://github.com/2KAbhishek/tmux-tea) Session manager with previews, integrations with tmuxinator, fzf, neovim and more.
 - [tmux-tpad](https://github.com/Subbeh/tmux-tpad) A popup window session manager.
+- [tmux-underkeys](https://github.com/maxonvim/tmux-underkeys) Jump to tmux sessions by pressing the underlined letter in their name.
 - [tmux-up](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
 - [tmuxake](https://github.com/nkh/tmuxake) A side-pane manager for tmux
 - [tmuxifier](https://github.com/jimeh/tmuxifier) Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
