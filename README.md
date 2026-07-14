@@ -181,6 +181,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-compile](https://github.com/alexekdahl/tmux-compile) Run compile commands directly inside tmux with automatic pane handling.
 - [tmux-command-palette](https://github.com/lost-melody/tmux-command-palette) Search for keybindings and custom commands with fzf.
 - [tmux-copytk](https://github.com/CrispyConductor/tmux-copy-toolkit) - Multi utility rapid copy toolkit.
+- [tmux-ctrl](https://github.com/MunifTanjim/tmux-ctrl) Control tmux from the command line: session navigation, pane moving, and token extraction.
 - [tmux-devcontainers](https://github.com/phil/tmux-devcontainers) - Manage and interact with (Devcontainers)[https://containers.dev]
 - [tmux-easy-motion](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
 - [tmux-easymotion](https://github.com/ddzero2c/tmux-easymotion) EasyMotion-like plugin with pane jumping capabilities in tmux.
