@@ -115,6 +115,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [aws-tmux](https://github.com/darko-mesaros/aws-tmux) Tmux plugin that gives you access to some (potentially) useful information about AWS.
 - [gitmux](https://github.com/arl/gitmux) Show Git status in tmux status bar
 - [muxbar](https://github.com/dlurak/muxbar) configure the status bar in Rust.
+- [showy-quota](https://github.com/enieuwy/showy-quota) Always-on AI coding-plan quota strips (Codex, Claude, Copilot, Gemini…) in status-right, driven by CodexBar.
 - [tmux2k](https://github.com/2KAbhishek/tmux2k) Highly customizable tmux status bar framework, providing you with a sleek and informative status bar.
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
 - [tmux-clima](https://github.com/vascomfnunes/tmux-clima) Displays the current temperature and weather condition using the OpenWeather API.
