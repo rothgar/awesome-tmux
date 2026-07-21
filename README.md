@@ -51,6 +51,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [libtmux](https://github.com/tmux-python/libtmux) Python API for tmux
 - [moxide](https://github.com/dlurak/moxide) A tmux session manager with a modular config
 - [mynav](https://github.com/GianlucaP106/mynav) Workspace and session management TUI built on tmux
+- [PocketShell](https://github.com/Big-Pony/pocketshell) A self-hosted mobile terminal for running coding agents (Claude Code, Codex) from a phone; sessions run in server-side tmux, so a dropped phone connection doesn't kill the task and output replays on reconnect.
 - [powerline](https://github.com/powerline/powerline) Statusline plugin for vim, and provides statuslines and prompts for several other applications including tmux
 - [tmux-powerline](https://github.com/erikw/tmux-powerline) A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
 - [sesh](https://github.com/joshmedeski/sesh) Smart session manager for the terminal
