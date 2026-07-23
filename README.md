@@ -175,6 +175,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-autoreload](https://github.com/b0o/tmux-autoreload) - Watches your tmux configuration file and automatically reloads it on change.
 - [tmux-bitwarden](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
 - [tmux-browser](https://github.com/ofirgall/tmux-browser) Web browser sessions attached to tmux sessions.
+- [tmux-codex-auto-continue](https://github.com/yeahdongcn/tmux-codex-auto-continue) Fail-closed watcher that resumes interrupted Codex CLI turns and selected retry/wait states with verified Continue+Enter input.
 - [tmux-cht-sh](https://github.com/kenos1/tmux-cht-sh) Access cheatsheets easily in a popup
 - [tmux-claude-sessions](https://github.com/aomerk/tmux-claude-sessions) Browse and resume Claude AI conversations from a fzf popup
 - [tmux-click-copy](https://github.com/aless3/tmux-click-copy) word/line copy on double/triple click without fixed timeout and without remaining stuck in copy mode
