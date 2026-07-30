@@ -42,6 +42,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 - [automux](https://github.com/sriramkandukuri/automux) Wrappers to tmux commands, useful for tmux based automation
 - [ccb](https://github.com/bfly123/claude_code_bridge) A CLI tool to orchestrate multiple LLMs (Claude, Gemini, etc.) in tmux panes with cross-agent interaction
+- [Codeman](https://github.com/Ark0N/Codeman) A self-hosted web dashboard that runs AI coding agents (Claude Code, OpenCode, Codex, Gemini) in persistent tmux sessions, streamed live to any browser or phone
 - [disconnected](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
 - [dmux](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 - [harpoon](https://github.com/Chaitanyabsprip/tmux-harpoon) A tool to bookmark sessions and jump between them in a flash. Like ThePrimeagen/harpoon, but for tmux.
