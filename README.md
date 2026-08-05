@@ -55,6 +55,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [mynav](https://github.com/GianlucaP106/mynav) Workspace and session management TUI built on tmux
 - [powerline](https://github.com/powerline/powerline) Statusline plugin for vim, and provides statuslines and prompts for several other applications including tmux
 - [tmux-powerline](https://github.com/erikw/tmux-powerline) A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
+- [run-kit](https://github.com/sahil87/run-kit) Remote, phone-first web console for tmux — spawn and watch coding agents (or anything else) in parallel git worktrees; agent-agnostic, no database
 - [sesh](https://github.com/joshmedeski/sesh) Smart session manager for the terminal
 - [smug](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
 - [sessionx](https://github.com/omerxx/tmux-sessionx) A Tmux session manager, with preview, fuzzy finding, and MORE
