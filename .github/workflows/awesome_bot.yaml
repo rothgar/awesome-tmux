@@ -6,18 +6,31 @@ on:
   pull_request:
     branches: [ '*' ]
 
+permissions:
+  contents: read
+
 jobs:
   build:
 
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Ruby 2.6
+    - uses: actions/checkout@v4
+    - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 2.6.10
-    - name: Checks
+        ruby-version: '3.3'
+        bundler-cache: true
+    - name: Cache Ruby gems
+      uses: actions/cache@v4
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-ruby-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-ruby-
+    - name: Install dependencies
       run: |
         gem install awesome_bot
+    - name: Check links
+      run: |
         awesome_bot --allow-redirect --request-delay 1 README.md
