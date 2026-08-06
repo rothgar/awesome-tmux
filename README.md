@@ -162,6 +162,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-weather](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 - [tmux-window-name](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
 - [tmux-weather-info-yr](https://github.com/Feqzz/tmux-weather-info-yr) Displays the current temperature and weather based on your location via yr.no
+- [tmux-wireguard](https://github.com/mgalgs/tmux-wireguard) Show active WireGuard (and Tailscale) interfaces, with data transfer and last handshake in verbose mode.
 - [tmux-world-clock](https://github.com/alexanderjeurissen/tmux-world-clock) Show multiple timezones using Olson tz database.
 - [tmux-workspace-usage](https://github.com/sjdonado/tmux-workspace-usage) Displays the memory and CPU usage of your workspace processes.
 
