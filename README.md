@@ -42,6 +42,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 ## <a name="tools"></a>Tools and session management
 
 - [automux](https://github.com/sriramkandukuri/automux) Wrappers to tmux commands, useful for tmux based automation
+- [Bento Term](https://github.com/NovaShang/BentoTerm) Native macOS/iOS client for tmux control mode (-CC) that shows each pane's AI agent state, with push-to-talk voice input
 - [ccb](https://github.com/bfly123/claude_code_bridge) A CLI tool to orchestrate multiple LLMs (Claude, Gemini, etc.) in tmux panes with cross-agent interaction
 - [disconnected](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
 - [dmux](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
