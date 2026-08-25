@@ -75,6 +75,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-poltergeist](https://github.com/dianoga-theory/tmux-poltergeist) Clipboard-like popup for injecting up to 10 text buffers
 - [tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit) A tmux framework to create and distribute plugins and themes - Already have 36+ plugins, and 2 themes.
 - [tmux-project](https://github.com/sei40kr/tmux-project) Search projects and open them in a new session
+- [tmux-rendez-vous](https://github.com/gravures/tmux-rendez-vous) Create, connect, auto-save, and restore sessions with linked-windows — tools built around **sesh** and **lazy-tmux** 
 - [tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) Suspend local session for painlessly working with nested remote session.
 - [tmux-task-monitor](https://github.com/YlanAllouche/tmux-task-monitor) a htop-like resource monitor popup that only shows the processes linked to the current session
 - [tmux-tab](https://github.com/leohenon/tmux-tab) Alt-tab for tmux sessions with MRU ordering and live previews.
