@@ -51,6 +51,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [lazyclaude](https://github.com/any-context/lazyclaude) A lazygit-inspired TUI for managing multiple Claude Code sessions with live previews, activity tracking, and permission prompts in a tmux popup
 - [tuimux](https://github.com/AlextheYounga/tuimux) A fast Rust TUI for everything tmux, with full CRUD support.
 - [libtmux](https://github.com/tmux-python/libtmux) Python API for tmux
+- [MulmoTerminal](https://github.com/receptron/mulmoterminal) A browser grid of live Claude Code / Codex sessions, each cell a real PTY colour-coded working / needs-you / done from the agent CLI's own hooks; runs on tmux when present so sessions survive a server restart or a reboot
 - [moxide](https://github.com/dlurak/moxide) A tmux session manager with a modular config
 - [mynav](https://github.com/GianlucaP106/mynav) Workspace and session management TUI built on tmux
 - [powerline](https://github.com/powerline/powerline) Statusline plugin for vim, and provides statuslines and prompts for several other applications including tmux
