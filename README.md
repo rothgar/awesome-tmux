@@ -61,6 +61,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [t](https://github.com/joshmedeski/t-smart-tmux-session-manager) The smart tmux session manager
 - [tat](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
 - [teamocil](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
+- [tj](https://github.com/aladagemre/tj) A single-file session picker that lists sessions most-recently-used first, with fuzzy filtering and a live preview of each session
 - [tmex](https://github.com/evnp/tmex) A minimalist tmux layout manager
 - [tmux-assistant-resurrect](https://github.com/timvw/tmux-assistant-resurrect) Persist and restore AI assistant sessions (Claude Code, Codex CLI, etc.) across tmux restarts
 - [tmux-canvas](https://github.com/juancruzfl/tmux-canvas) Create, save, and automate session layouts using executable shell script blueprints.
