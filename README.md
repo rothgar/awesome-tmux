@@ -120,6 +120,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [aws-tmux](https://github.com/darko-mesaros/aws-tmux) Tmux plugin that gives you access to some (potentially) useful information about AWS.
 - [gitmux](https://github.com/arl/gitmux) Show Git status in tmux status bar
 - [muxbar](https://github.com/dlurak/muxbar) configure the status bar in Rust.
+- [termagitchi](https://github.com/TevvvB/termagitchi) A Tamagotchi-style creature per git worktree for your tmux status line — mood tracks dirty/unpushed state, rarity is a gacha roll, `pets party` shows every live den at once.
 - [tmux2k](https://github.com/2KAbhishek/tmux2k) Highly customizable tmux status bar framework, providing you with a sleek and informative status bar.
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
 - [tmux-claude-status](https://github.com/farnots/tmux-claude-status) Show live Claude Code session status per window: animated badges, waiting durations and global summary.
