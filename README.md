@@ -202,6 +202,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-fzf-session-switch](https://github.com/thuanOwa/tmux-fzf-session-switch) Easy way to switch, when you have a ton of sessions.
 - [tmux-gh](https://github.com/tardunge/tmux-gh) - Tmux plugin to fetch the github helper profile. Displays, the currently actively authenticated git username.
 - [tmux-grimoire](https://github.com/navahas/tmux-grimoire) - Customizable popup shells (aka shpells) driven by custom scripts.
+- [tmux-harbor](https://github.com/ddzero2c/tmux-harbor) fzf picker over your repos and git worktrees: open one as a session, window or split, or create/remove worktrees.
 - [tmux-keylocker](https://github.com/TheSast/tmux-keylocker) Lock away your tmux keybinds temporarily.
 - [tmux-llm](https://github.com/hynek-urban/tmux-llm) Get quick responses to your terminal contents from LLM assistants.
 - [tmux-menus](https://github.com/jaclu/tmux-menus) - Popup menus to help with managing your environment.
