@@ -92,6 +92,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tome](https://github.com/laktak/tome) 🔁 Playbooks for tmux & vim, replacing your shell history
 - [twm](https://github.com/vinnymeller/twm) A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
+- [wmux](https://github.com/openwong2kim/wmux) A GUI workspace multiplexer for Windows and macOS for running Claude Code, Codex, Gemini CLI and other CLI agents side by side, with per-task git worktrees, approval gates and a daemon that keeps sessions alive across app quits, crashes and reboots
 - [xpanes](https://github.com/greymd/tmux-xpanes) Awesome tmux-based terminal divider
 
 ## Themes
