@@ -45,6 +45,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [ccb](https://github.com/bfly123/claude_code_bridge) A CLI tool to orchestrate multiple LLMs (Claude, Gemini, etc.) in tmux panes with cross-agent interaction
 - [disconnected](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
 - [dmux](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
+- [forestui](https://github.com/flipbit03/forestui) A Rust TUI for managing Git worktrees in tmux, with Claude Code session tracking and GitHub issue integration
 - [harpoon](https://github.com/Chaitanyabsprip/tmux-harpoon) A tool to bookmark sessions and jump between them in a flash. Like ThePrimeagen/harpoon, but for tmux.
 - [kubectl-tmux-exec](https://github.com/predatorray/kubectl-tmux-exec) A kubectl plugin that uses tmux to control multiple Kubernetes pods' shells simultaneously, broadcasting commands to all selected containers at once.
 - [laio](https://laio.sh) A simple, flexbox-inspired, layout & session manager for tmux written in Rust.
