@@ -121,6 +121,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 - [aws-tmux](https://github.com/darko-mesaros/aws-tmux) Tmux plugin that gives you access to some (potentially) useful information about AWS.
 - [gitmux](https://github.com/arl/gitmux) Show Git status in tmux status bar
+- [kube-tmux](https://github.com/jonmosco/kube-tmux) Show the current Kubernetes context and namespace in the tmux status bar.
 - [muxbar](https://github.com/dlurak/muxbar) configure the status bar in Rust.
 - [tmux2k](https://github.com/2KAbhishek/tmux2k) Highly customizable tmux status bar framework, providing you with a sleek and informative status bar.
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
