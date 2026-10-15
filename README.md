@@ -184,6 +184,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-agent-view](https://github.com/luopeixiang/tmux-agent-view) Claude Code-style agent view — jump to any AI agent pane (Claude Code, Codex, aider) across sessions from a popup picker, grouped by live state, with screen preview. No hooks or daemon.
 - [tmux-ai-window-name](https://github.com/ndom91/tmux-ai-window-name) Let an LLM automatically update your window names based on metadata about the window (Claude and local LLMs supported)
 - [tmux-autoreload](https://github.com/b0o/tmux-autoreload) - Watches your tmux configuration file and automatically reloads it on change.
+- [tmux-binder](https://github.com/illegalstudio/tmux-binder) Shared sidebar for tmux sessions, windows, and panes, with live navigation previews and coding agent activity.
 - [tmux-bitwarden](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
 - [tmux-browser](https://github.com/ofirgall/tmux-browser) Web browser sessions attached to tmux sessions.
 - [tmux-cht-sh](https://github.com/kenos1/tmux-cht-sh) Access cheatsheets easily in a popup
