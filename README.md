@@ -20,6 +20,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [Automatically start tmux on SSH](http://marklodato.github.io/2013/10/31/autostart-tmux-on-ssh.html)
 - [Tmux crash course](https://thoughtbot.com/blog/a-tmux-crash-course)
 - [Tmux and Vim together](https://smartbear.com/blog/tmux-and-vim/)
+- [WebTerm Learn: tmux Introduction](https://learn.webterm.app/en/courses/tmux-introduction) - Free browser course that teaches tmux like a game: 8 lessons of slides and hands-on exercises on a simulated tmux, no install or sign-up
 
 ## <a name="cheatsheets"></a>Cheat Sheets
 
@@ -27,6 +28,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmuxcheatsheet.com](https://tmuxcheatsheet.com/)
 - [TmuxAI Cheat Sheet](https://tmuxai.dev/tmux-cheat-sheet/)
 - [tmuxcheatsheet.org](https://tmuxcheatsheet.org/) - Interactive, searchable cheat sheet with copy-to-clipboard commands and a customizable prefix key
+- [WebTerm Learn: tmux Cheat Sheet](https://learn.webterm.app/en/cheatsheet/tmux) - Printable one-page PDF and PNG that groups 38 keys and commands by task: sessions, windows, panes, detach and reattach, .tmux.conf and copy mode. Free, no sign-up, CC BY 4.0
 
 ## Configuration
 
