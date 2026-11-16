@@ -51,6 +51,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [lazyclaude](https://github.com/any-context/lazyclaude) A lazygit-inspired TUI for managing multiple Claude Code sessions with live previews, activity tracking, and permission prompts in a tmux popup
 - [tuimux](https://github.com/AlextheYounga/tuimux) A fast Rust TUI for everything tmux, with full CRUD support.
 - [libtmux](https://github.com/tmux-python/libtmux) Python API for tmux
+- [mAGI](https://github.com/pankajgarkoti/magi) Fedora/Hyprland setup run from an orchestrator agent (Claude Code, opencode, Codex) in tmux; it starts worker agents in their own windows, gets their status without polling, and restores the layout after reboot
 - [moxide](https://github.com/dlurak/moxide) A tmux session manager with a modular config
 - [muxly](https://muxly.sh/) Native tmux client for iPhone and iPad, built around tmux control mode for native window tabs, pane navigation, smooth scrolling, and more
 - [mynav](https://github.com/GianlucaP106/mynav) Workspace and session management TUI built on tmux
