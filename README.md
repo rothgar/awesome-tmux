@@ -148,6 +148,7 @@ Tools and plugins for running, monitoring, and managing AI coding agents in tmux
 - [tmux-cpu-rs](https://github.com/playbahn/tmux-cpu-rs/) Blazingly fast, small Rust tool to display CPU usage with **caching** for efficiency and optional eye-candy.
 - [tmux-current-pane-hostname](https://github.com/tony-sol/tmux-current-pane-hostname) Show current user and hostname in ssh sessions
 - [tmux-df](https://github.com/tassaron/tmux-df) - Show available disk space (output of df command)
+- [tmux-dotbar](https://github.com/vaaleyard/tmux-dotbar) - a simple and minimalist status bar theme for tmux.
 - [tmux-kripto](https://github.com/vascomfnunes/tmux-kripto) Add a cryptocurrency stock price to the statusbar.
 - [tmux-kubectx](https://github.com/tony-sol/tmux-kubectx) Show kubernetes context in statusbar
 - [tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
