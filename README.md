@@ -98,6 +98,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 Tools and plugins for running, monitoring, and managing AI coding agents in tmux.
 
 - [ccb](https://github.com/SeemSeam/claude_codex_bridge) A CLI tool to orchestrate multiple LLMs (Claude, Gemini, etc.) in tmux panes with cross-agent interaction
+- [forestui](https://github.com/flipbit03/forestui) A Rust TUI for managing Git worktrees in tmux, with Claude Code session tracking and GitHub issue integration
 - [lazyclaude](https://github.com/any-context/lazyclaude) A lazygit-inspired TUI for managing multiple Claude Code sessions with live previews, activity tracking, and permission prompts in a tmux popup
 - [marmonitor](https://github.com/mjjo16/marmonitor) Tmux status bar monitor for local AI coding sessions (Claude Code, Codex, Gemini). Track agent activity, enrich sessions with metadata, and provide interactive popups and session jumping.
 - [tmux-agent-indicator](https://github.com/accessd/tmux-agent-indicator) Track AI agent state (Claude, Codex, etc.) with pane borders, background colors, window titles, and status bar icons.
