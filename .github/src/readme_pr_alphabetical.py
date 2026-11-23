@@ -137,14 +137,18 @@ def parse_sections(content: str) -> list[dict]:
 
 
 def iter_checkable_groups(sections: list[dict]) -> list[tuple[str, list[tuple[int, str]]]]:
-    """Return (display_name, items) pairs we should check for ordering."""
+    """Return (display_name, items) pairs we should check for ordering.
+
+    A section's own top-level items and each of its sub-sections are
+    separate groups, so a section is still checked when it also has
+    sub-sections.
+    """
     out: list[tuple[str, list[tuple[int, str]]]] = []
     for s in sections:
-        if s["subsections"]:
-            for sub in s["subsections"]:
-                out.append((f"{s['name']} > {sub['name']}", sub["items"]))
-        else:
+        if s["items"]:
             out.append((s["name"], s["items"]))
+        for sub in s["subsections"]:
+            out.append((f"{s['name']} > {sub['name']}", sub["items"]))
     return out
 
 

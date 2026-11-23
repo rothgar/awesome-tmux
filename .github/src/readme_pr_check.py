@@ -12,9 +12,8 @@ For every PR that touches README.md:
     explanatory comment.
 
 Notes:
-  - No 6-month policy is currently stated in the awesome-tmux PR
-    template/README; this codifies the same minimum age as
-    awesome-tuis. Update MIN_AGE_DAYS if you want a different value.
+  - The 6-month minimum is stated in the PR template; this script
+    enforces it. Update MIN_AGE_MONTHS to use a different value.
   - Unknown/unparseable first-commit dates do NOT trigger close; they
     are treated as comment-only to avoid false positives on deleted
     or private repos.
@@ -178,14 +177,19 @@ def parse_link_header(link_header: str) -> dict:
 
 def get_first_commit_date(client: GithubClient, repo_url: str) -> str:
     owner_repo = repo_url.removeprefix("https://github.com/")
-    _, headers = client.api(f"repos/{owner_repo}/commits?per_page=1")
-    links = parse_link_header(headers.get("Link", ""))
-    last_page = 1
-    if "last" in links:
-        last_page_str = parse.parse_qs(parse.urlparse(links["last"]).query).get("page", ["1"])[0]
-        if last_page_str.isdigit():
-            last_page = int(last_page_str)
-    commits, _ = client.api(f"repos/{owner_repo}/commits?per_page=1&page={last_page}")
+    try:
+        _, headers = client.api(f"repos/{owner_repo}/commits?per_page=1")
+        links = parse_link_header(headers.get("Link", ""))
+        last_page = 1
+        if "last" in links:
+            last_page_str = parse.parse_qs(parse.urlparse(links["last"]).query).get("page", ["1"])[0]
+            if last_page_str.isdigit():
+                last_page = int(last_page_str)
+        commits, _ = client.api(f"repos/{owner_repo}/commits?per_page=1&page={last_page}")
+    except SystemExit:
+        # Deleted, private or malformed repo: report the age as unknown so
+        # the PR is commented on instead of closed.
+        return ""
     if not isinstance(commits, list) or not commits:
         return ""
     commit = commits[0].get("commit", {})

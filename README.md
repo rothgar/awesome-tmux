@@ -106,7 +106,7 @@ Tools and plugins for running, monitoring, and managing AI coding agents in tmux
 - [tmux-assistant-resurrect](https://github.com/timvw/tmux-assistant-resurrect) Persist and restore AI assistant sessions (Claude Code, Codex CLI, etc.) across tmux restarts
 - [tmux-claude-sessions](https://github.com/aomerk/tmux-claude-sessions) Browse and resume Claude AI conversations from a fzf popup
 - [tmux-claude-status](https://github.com/farnots/tmux-claude-status) Show live Claude Code session status per window: animated badges, waiting durations and global summary.
-- [tmux-claude-status-tabs](https://github.com/LiveNL/tmux-claude-status-tabs) Per-window Claude Code session state in the tab bar: animated spinner, input, permission and done indicators. Event-driven via hooks, no polling.
+- [tmux-ide](https://github.com/wavyrai/tmux-ide) Terminal app for tmux that shows which coding agents (Claude Code, Codex, etc.) are working, blocked or done across sessions, with notifications and session restore
 - [tmux-llm](https://github.com/hynek-urban/tmux-llm) Get quick responses to your terminal contents from LLM assistants.
 - [tmux-scout](https://github.com/qeesung/tmux-scout) A tmux plugin for monitoring and navigating AI coding sessions.
 - [tmuxai](https://github.com/alvinunreal/tmuxai) AI-Powered, Non-Intrusive Terminal Assistant

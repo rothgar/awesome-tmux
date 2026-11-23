@@ -28,12 +28,11 @@ jobs:
             --verbose
             --no-progress
             --accept 100,101,200,202,203,204,205,206,300,301,302,303,304,307,308,403,429
-            --retry 3
+            --max-retries 3
             --retry-wait-time 5
             --timeout 20
             --max-redirects 5
             --exclude-loopback
-            --exclude-mail
             --exclude 'github\.com/.*/(issues|pulls|actions)'
             README.md
           output: github
