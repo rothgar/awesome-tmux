@@ -28,6 +28,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmuxcheatsheet.com](https://tmuxcheatsheet.com/)
 - [TmuxAI Cheat Sheet](https://tmuxai.dev/tmux-cheat-sheet/)
 - [tmuxcheatsheet.org](https://tmuxcheatsheet.org/) - Interactive, searchable cheat sheet with copy-to-clipboard commands and a customizable prefix key
+- [keybind-find](https://github.com/Benjmhart/keybind-find) - A searchable cheat sheet of the running tmux server's keys (your prefix and bindings, with their notes), in a desktop-wide command palette that presses the one you pick
 
 ## Configuration
 
